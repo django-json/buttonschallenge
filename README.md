@@ -39,7 +39,7 @@
 
 ![buttonschallenge](https://user-images.githubusercontent.com/44185999/106869883-67e08280-670b-11eb-96e2-f4f5f2db407b.png)
 
--   This challenge is fantastic. This is my first time using storybook.js and I really love it so much and planned to use it for future projects for component presentation. Moreover I used classnames to manage mutliple conditional styles which is great for organizing class names.
+-   This challenge is fantastic. This is my first time using storybook.js and I really love it so much and planned to use it for future projects for component presentation. Moreover, I used classnames to manage mutliple conditional styles which is great for organizing class names.
 
 ### Built With
 
